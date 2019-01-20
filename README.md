@@ -1,13 +1,13 @@
 ```
-git clone git@github.com:stormasm/elastic.git
-cd elastic
+git clone git@github.com:stormasm/elastic02.git
+cd elastic02
 go test -run TestBulkStringRequestSetString
 ```
 
 The first time prior to a **go.mod** file existing you need to run this command  
 
 ```
-go mod init github.com/stormasm/elastic
+go mod init github.com/stormasm/elastic02
 ```
 
 # Elastic
