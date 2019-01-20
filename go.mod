@@ -1,4 +1,4 @@
-module github.com/stormasm/elastic
+module github.com/stormasm/elastic02
 
 require (
 	github.com/fortytw2/leaktest v1.3.0
